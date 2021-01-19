@@ -1,0 +1,20 @@
+---
+title: "Anna Talken"
+image: "talken.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/anna-talken-9540b3b2/"
+  - label: Instagram
+    url: "https://www.instagram.com/surf_sci/"
+  - label: GitHub
+    url: "https://github.com/atalken"
+  - label: Email
+    url: "atalken@ucsb.edu"
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+ 
+I am a classically trained data scientist living in the San Francisco Bay Area. 
+Currently I work on the Oculus team at Facebook. I love talking about baseball, 
+true crime podcasts, and causal inference.
